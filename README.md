@@ -4,7 +4,4 @@
 - [Recursion Example](recursion.py)
 ## ☕ Java Snippets
 - [OOP Demo](OOPDemo.java)
-- [Sorting Techniques](Sorting.java)
-##  JavaScript Snippets
-- [DOM Manipulation](dom-manipulation.js)
-- [Fetch API Example](fetchAPI.js)
+
